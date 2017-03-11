@@ -7,4 +7,4 @@ I am Second Year Interactive Arts and Sciences Student at Brock University. I ho
 
 
 
-[Here is my blog](blog)
+[Here is my blog](blog.md)
