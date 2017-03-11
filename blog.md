@@ -46,7 +46,7 @@ interpretation is Neatline. Neatline is a geospatial-based tool that can create 
 software. Neatline was created with the idea that visualization in the humanities is about the process, rather than the result 
 (Nowviskie, 2011).  
 
-![This visual is a Cirrus of the most used words in Algorithmic Criticism](desktop/Visual.png)
+![](images/Visual.png)
 #####This visual is a Cirrus of the most used words in Algorithmic Criticism
 
 
