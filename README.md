@@ -8,3 +8,6 @@ I am a second Year Interactive Arts and Sciences Student at Brock University. I 
 
 
 [Here is my blog](blog.md)
+
+[Here is my Pecha Kucha presentation] 
+[Slide Deck](reveal/index.html) 
