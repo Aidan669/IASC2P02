@@ -42,7 +42,7 @@ software. Neatline was created with the idea that visualization in the humanitie
 (Nowviskie, 2011).  
 
 ![](images/Visual.png)
-#####This visual above is a Cirrus of the most used words in Algorithmic Criticism
+This visual above is a Cirrus of the most used words in Algorithmic Criticism
 
 
 
