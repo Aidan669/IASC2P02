@@ -1,6 +1,6 @@
 ## Welcome to my site 
 
-I am a second Year Interactive Arts and Sciences Student at Brock University. I hope to find a career in the digital design world. I enjoy cycling, photography, and music. 
+I am a second year Interactive Arts and Sciences student at Brock University. I hope to pursue a career in the field of digital humanities and design. I enjoy cycling, photography, and music. 
 
 
 
@@ -9,5 +9,5 @@ I am a second Year Interactive Arts and Sciences Student at Brock University. I 
 
 [Here is my blog](blog.md)
 
-Here is my Pecha Kucha presentation 
-[Slide Deck](reveal/index.html) 
+Here is my Pecha Kucha [presentation](reveal/index.html) about the Game boy Camera and Printer
+ 
