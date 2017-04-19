@@ -7,7 +7,7 @@ My name is Aidan Crawley. I am originally from Toronto, but began studying at Br
 
 
 
-[Here is my blog](blog.md)
+My academic blog [*Discussing Algorithmic Criticisms by Stephen Ramsay*](blog.md)
 
-Here is my Pecha Kucha [presentation](reveal/index.html) about the Game boy Camera and Printer
+My [Research Presentation](reveal/index.html) about the Gameboy Printer and Camera.
  
