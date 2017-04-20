@@ -5,7 +5,7 @@ My name is Aidan Crawley. I am originally from Toronto, but began studying at Br
 
 
 
-
+My [Collaborative Project](CollaborativeProject.MD)
 
 My academic blog [*Discussing Algorithmic Criticisms by Stephen Ramsay*](blog.md)
 
