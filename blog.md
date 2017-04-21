@@ -12,7 +12,7 @@ Ramsay also discusses how some literary critics don’t feel these tools have a 
 Criticism are quantitative versus qualitative information and literary text analysis. These themes provide background for my supporting 
 discussion about digital text analysis and digital Interpretation in the humanities. 
 
-Human interpretation is a indivuduals own analysis, assessment, and conclusion of anything the body can interact with through its senses.
+Human interpretation is a individuals own analysis, assessment, and conclusion of anything their body can interact with through its senses.
 In the 21st century, we use our technology as an extension of our senses both physically and mentally, more so than any other time in 
 history. This extension of digital technology is widely accepted in the science and business world, but seems to fall short in the 
 humanities fields. Ramsay explains that “It is not difficult to see why a contemporary criticism temperamentally and philosophically at
