@@ -8,7 +8,7 @@ My name is Aidan Crawley. I am originally from Toronto, but began studying at Br
 ##### Discussing Algorithmic Criticisms by Stephen Ramsay
 ![](images/Trends.jpg)
 
-**Abstract**
+**Abstract:**
 This project consists of the analysis of section one of Stephen Ramsay’s “Reading Machines”, as well as further research of text analysis tools, and how they are being used in the context of the digital humanities. I argue that digital text analysis, and all other digital tools being used in the humanities is a positive thing. While supporting Ramsay’s work, I also create my own conversation regarding quantity versus quality, and how the combination science and humanities is a positive step forward for both empirical and hermeneutical thinkers. In this blog style research, I started with analysis Ramsay’s work in close detail, making sure I clearly understand Ramsay’s discourse. I decided to write a supporting piece for Ramsay’s work, as well as the topic he discusses. This involved some summary and reflection on his research into how digital humanities practices are perceived by traditional humanities scholars. Next, I compare Ramsay’s ideas of other digital humanities scholars such as Bethany Nowviskie, and her work “neatline & visualization as interpretation”, and Jennifer London’s Re-imagining the Cambridge School in the Age of Digital Humanities. Each provides support for my argument of support for digital text analysis. In my concluding remarks, I found that I was not only in agreement with Ramsay, but I could fully understand what he wanted to see in the digital humanities. I feel that my own conclusions are very similar to Ramsay’s in the sense I agree with support for the combination of theory and application, and science and humanities. 
 
 
