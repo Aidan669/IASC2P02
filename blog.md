@@ -12,8 +12,8 @@ Ramsay also discusses how some literary critics don’t feel these tools have a 
 Criticism are quantitative versus qualitative information and literary text analysis. These themes provide background for my supporting 
 discussion about digital text analysis and digital Interpretation in the humanities. 
 
-Human interpretation is ones own analysis, assessment, and conclusion of anything the body can interact with through its senses. In the 
-21st century, we use our technology as an extension of our senses both physically and mentally, more so than any other time in 
+Human interpretation is an indivuduals own analysis, assessment, and conclusion of anything the body can interact with through its senses.
+In the 21st century, we use our technology as an extension of our senses both physically and mentally, more so than any other time in 
 history. This extension of digital technology is widely accepted in the science and business world, but seems to fall short in the 
 humanities fields. Ramsay explains that “It is not difficult to see why a contemporary criticism temperamentally and philosophically at
 peace with intuition and serendipity would choose to ignore the corrective tendencies of the computer against the deficiencies of 
@@ -29,8 +29,8 @@ There is still much to be said about human interpretation. In some cases, comput
 and information through empirical inquiry. Ramsay uses Miriam Wallace’s research of the 1931 novel The Waves by Virginia Woolf as a good 
 example of this. Wallace suggests that, “Focusing on the narrative construction of subjectivity reveals the pertinence of The Waves for 
 current feminist reconfigurations of the feminine subject. This focus links the novel's visionary limitations to the historic moment of 
-Modernism” (Wallace, 2000)(2011). This interpretation is was reached through pure observation and analysis of the text, but also by going
-outside of the novels subject area and looking at intangible yet impotant concepts like feminism. This theory is one that cannot likley  be drawn from digital text analysis due to the complexity of the correlating ideas involved. While this theory is extremely interesting and thought provoking, it does not provide a concrete answer or solution to anything. But as Ramsay puts it, “We are not trying to solve Woolf. We are trying to ensure that discussion of The Waves continues”. (Ramsay, 2011)  This is the key to understanding the misinterpretation of computers in the humanities. They are not supposed be used for providing answers, but rather for assisting in the continuation and development of literary criticisms, text analysis, and humanities conversations of all types. 
+Modernism” (Wallace, 2000)(2011). This interpretation is reached through pure observation and analysis of the text, but also by going
+outside of the subject are of the novel and looking at intangible yet impotant concepts like feminism. This theory is one that cannot likley  be drawn from digital text analysis due to the complexity of the correlating ideas involved. While this theory is extremely interesting and thought provoking, it does not provide a concrete answer or solution to anything. But as Ramsay puts it, “We are not trying to solve Woolf. We are trying to ensure that discussion of The Waves continues”. (Ramsay, 2011)  This is the key to understanding the misinterpretation of computers in the humanities. They are not supposed be used for providing answers, but rather for assisting in the continuation and development of literary criticisms, text analysis, and humanities conversations of all types. 
 
 In order to realize the true potential of machines in the humanities, we have to use computers to help us visualize our interpretations,
 concepts and theories. The first example of this is a tool called Voyant. This online tool is designed to analyze text files or text 
