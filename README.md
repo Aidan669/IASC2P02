@@ -5,7 +5,7 @@
 My name is Aidan Crawley. I am originally from Toronto, but began studying at Brock in 2015. I am in my second year of the Interactive Arts and Sciences program at Brock University, and I intend to complete this undergraduate program with honours. My specific interests in the digital humanities involves interface design, audio-visual design, and text analysis.  I like to explore website design, sound design and production, and how digital humanities theories apply to these areas. I also enjoy exploring the different software used for design and production in audio-visual projects. A an area of research I would like to undertake in the field would be to explore how 3D audio and video can be better integrated for a more interactive experience. I would also like to research how we can use specific digital tools to bring us away from our screens, but at the same time keep us online. I have applied myself in each of these areas by creating projects, such as bulding/coding websites, designing a concept UI, and designing soundscapes for several scenarios. I would like to take what I learn in the IASC program and apply it to specific job or field situated in digital humanities, by either creating digital tools, or doing research to improve the way we can interact through our digital tools.
 
 ## Featured Project
-[Discussing Algorithmic Criticisms by Stephen Ramsay](IASC2P02/blog.md)
+[Discussing Algorithmic Criticisms by Stephen Ramsay](blog.md)
 
 ![](images/Trends.jpg)
 
